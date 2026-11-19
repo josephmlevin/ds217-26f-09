@@ -1,0 +1,4 @@
+rule,episodes_flagged,escalations_flagged
+any_reading,1211,138
+hourly_median,71,35
+rolling_3h,36,18
